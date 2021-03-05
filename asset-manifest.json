@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ben/static/css/main.b1e8e6fd.chunk.css",
+    "main.js": "/ben/static/js/main.7bff3195.chunk.js",
+    "main.js.map": "/ben/static/js/main.7bff3195.chunk.js.map",
+    "runtime-main.js": "/ben/static/js/runtime-main.093fb563.js",
+    "runtime-main.js.map": "/ben/static/js/runtime-main.093fb563.js.map",
+    "static/js/2.cce5e28c.chunk.js": "/ben/static/js/2.cce5e28c.chunk.js",
+    "static/js/2.cce5e28c.chunk.js.map": "/ben/static/js/2.cce5e28c.chunk.js.map",
+    "static/js/3.331d4467.chunk.js": "/ben/static/js/3.331d4467.chunk.js",
+    "static/js/3.331d4467.chunk.js.map": "/ben/static/js/3.331d4467.chunk.js.map",
+    "index.html": "/ben/index.html",
+    "static/css/main.b1e8e6fd.chunk.css.map": "/ben/static/css/main.b1e8e6fd.chunk.css.map",
+    "static/js/2.cce5e28c.chunk.js.LICENSE.txt": "/ben/static/js/2.cce5e28c.chunk.js.LICENSE.txt",
+    "static/media/chevron-double-down.9bca82b8.svg": "/ben/static/media/chevron-double-down.9bca82b8.svg",
+    "static/media/envelope-fill.3c87f37f.svg": "/ben/static/media/envelope-fill.3c87f37f.svg",
+    "static/media/github.177b39f4.svg": "/ben/static/media/github.177b39f4.svg",
+    "static/media/linkedin.357f87ac.svg": "/ben/static/media/linkedin.357f87ac.svg",
+    "static/media/pp.8b26138e.jpg": "/ben/static/media/pp.8b26138e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.093fb563.js",
+    "static/js/2.cce5e28c.chunk.js",
+    "static/css/main.b1e8e6fd.chunk.css",
+    "static/js/main.7bff3195.chunk.js"
+  ]
+}
